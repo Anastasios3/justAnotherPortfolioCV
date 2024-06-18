@@ -3,8 +3,8 @@
 
 # Just Another Portfolio CV
 
-This is my last year's portfolio, showcasing my skills and projects. I am currently building a new portfolio using React, which will be public soon.
-
+**This is my last year's portfolio, showcasing my skills and projects. I am currently building a new portfolio using React, which will be public soon.
+**
 ## About Me
 
 My name is Anastasios Tatarakis, a dedicated Web Developer with a robust foundation in Laravel and WordPress. I specialize in developing web applications and websites, notably for the healthcare sector. My technical journey is fortified by an IBM Full Stack Software Developer Professional Certificate, alongside continuous skill enhancements through targeted seminars.
