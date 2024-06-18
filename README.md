@@ -1,3 +1,6 @@
+![image](https://github.com/Anastasios3/justAnotherPortfolioCV/assets/117446378/2382a5da-ef33-42a5-9361-1586c5731ab2)
+
+
 # Just Another Portfolio CV
 
 This is my last year's portfolio, showcasing my skills and projects. I am currently building a new portfolio using React, which will be public soon.
